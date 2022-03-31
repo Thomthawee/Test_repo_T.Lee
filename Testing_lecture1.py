@@ -12,3 +12,5 @@ print(x*2)
 
 
 print('Test')
+
+print(x*300)
